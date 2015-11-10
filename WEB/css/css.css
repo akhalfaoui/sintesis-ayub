@@ -1,0 +1,57 @@
+
+
+body{
+    background-color: #fff;
+    
+}
+
+.texto {
+	margin-top: 1000px;
+	width: 1600px;
+    height: 200px;
+   
+}
+
+.lista {
+	text-align: center;
+	text-align: auto;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-style: inherit;
+	color: black;
+	font-family: monospace;	
+    text-decoration:none; 
+}
+video {
+    width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 200px;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.texto-twitter{
+	font-size: 50px;
+
+}
+
+.barra {
+	background: #000;
+	margin-top: 0px;
+	margin-bottom: 100px;
+}
+.barras-lista {
+	background: #000;
+}
+
+.texto-body {
+	text-align: center;
+	font-family: monospace;
+	font-style: inherit;
+	font-size: 20px;
+}
